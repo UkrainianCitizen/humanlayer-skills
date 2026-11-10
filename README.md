@@ -10,20 +10,6 @@ npx skills add humanlayer/skills --skill SKILLNAME
 
 ## Available Skills
 
-### show-me
-
-Explains the current topic with concise diagrams, code-shape sketches, and focused HTML artifacts.
-
-```bash
-npx skills add humanlayer/skills --skill show-me
-```
-
-Then invoke:
-
-```
-/show-me
-```
-
 ### visual-pr
 
 Creates or updates a pull request with a concise visual outline that helps reviewers understand the change.

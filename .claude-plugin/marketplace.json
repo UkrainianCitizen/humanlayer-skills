@@ -1,6 +1,6 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
-  "name": "skills",
+  "name": "humanlayer-skills",
   "owner": {
     "name": "humanlayer",
     "email": "support@humanlayer.dev"
@@ -57,18 +57,6 @@
       "source": "./plugins/design-control-loop",
       "category": "productivity",
       "keywords": ["control-loop", "control-theory", "sensor-controller-actuator", "iterated-agentic-loop", "coding-agents", "github-actions", "skills", "claude-code"]
-    },
-    {
-      "name": "show-me",
-      "description": "Explain the current topic with concise diagrams, code-shape sketches, and focused HTML artifacts",
-      "version": "1.0.1",
-      "author": {
-        "name": "humanlayer",
-        "email": "support@humanlayer.dev"
-      },
-      "source": "./plugins/show-me",
-      "category": "productivity",
-      "keywords": ["visualization", "diagrams", "mermaid", "code", "html"]
     },
     {
       "name": "visual-pr",
